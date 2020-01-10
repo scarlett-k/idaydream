@@ -1,0 +1,26 @@
+<!--Header for idaydream project-->
+<div class="container">
+    <a href="https://idaydream.org"><img src="images/BannerLogo.jpg" alt="idaydream logo" id="headerImage"
+                                         style="width: 100%"></a>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="https://idaydream.org">iD.A.Y. Dream</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="volunteerForm.php">Volunteer Form</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="youthForm.php">Dreamer Form</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="login.php">Administrator Actions</a>
+            </li>
+        </ul>
+    </div>
+</nav>
